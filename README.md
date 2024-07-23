@@ -1,5 +1,5 @@
 # on-premise-deploy
-Code and artefacts required to deploy PM4ML in an on-premise environment
+Code and artifacts required to deploy PM4ML in an on-premise environment
 
 ## Running payment manager with testing toolkit included
 
